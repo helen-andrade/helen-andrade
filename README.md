@@ -1,4 +1,9 @@
-## Olá! Eu me chamo Helen Andrade, sou graduanda em Análise e Desenvolvimento de Sistemas e estudante de programação.
+# Olá! Eu sou Helen Andrade 👋
+
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
+- 💻 Estudante de programação, sempre em busca de novos conhecimentos
+- 🎯 Comprometida com o aprendizado contínuo e o desenvolvimento de soluções criativas
+- 🔍 Buscando oportunidades de aprendizado e desenvolvimento na área de tecnologia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +16,6 @@
 ##
  
 <div> 
-  <a href="https://instagram.com/helenandrade21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="http://linkedin.com/in/helen-andrade-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"         
   target="_blank"></a> 
 </div>
